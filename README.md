@@ -24,6 +24,6 @@ Download the provided source code file.
 3. If you are using XAMPP, copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory. And If you are using WAMP, paste it into the "www" directory.
 4. Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
 5. Create a new database naming "airline_reservation".
-6. The provided SQL file. The file is known as "airline_reservation.sql" located inside the "Database file" folder.
+6. The provided SQL file. The file is known as "airline_reservation.sql" located inside the "source code"
 7. Browse the Airline Ticket Reservation System in a browser. i.e. http://localhost/airline-ticket-reservation
 
